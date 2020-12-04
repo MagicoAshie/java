@@ -1,0 +1,4 @@
+com\example\flexible\speak\TranscribeSocket.class
+com\example\flexible\speak\ClassifyServlet.class
+com\example\flexible\speak\Constraints.class
+com\example\flexible\speak\TranscribeServlet.class
